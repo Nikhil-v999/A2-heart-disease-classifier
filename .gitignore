@@ -1,2 +1,4 @@
-echo "venv/" > .gitignore
-echo ".ipynb_checkpoints/" >> .gitignore
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
